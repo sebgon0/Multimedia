@@ -1,0 +1,35 @@
+{
+    "spørsmål": [
+      {
+        "kategori": "foto",
+        "spørsmåltekst": "Hva er definisjonen av 'eksponering' innenfor fotografi?",
+        "svaralternativer": [
+          {"alternativ": "Antall piksler som utgjør et bilde.", "korrekt": false},
+          {"alternativ": "Mengden lys som treffer kameraets bildebrikke.", "korrekt": true},
+          {"alternativ": "Styrken eller volumet av lyden.", "korrekt": false},
+          {"alternativ": "Den delen av kameraet som fanger opp lyd.", "korrekt": false}
+        ]
+      },
+      {
+        "kategori": "video",
+        "spørsmåltekst": "Hva er oppløsningen for full HD-video?",
+        "svaralternativer": [
+          {"alternativ": "1280x720", "korrekt": false},
+          {"alternativ": "1920x1080", "korrekt": true},
+          {"alternativ": "640x480", "korrekt": false},
+          {"alternativ": "2560x1440", "korrekt": false}
+        ]
+      },
+      {
+        "kategori": "lyd",
+        "spørsmåltekst": "Hva måles lydamplitude i?",
+        "svaralternativer": [
+          {"alternativ": "Hertz (Hz)", "korrekt": false},
+          {"alternativ": "Desibel (dB)", "korrekt": true},
+          {"alternativ": "Piksler", "korrekt": false},
+          {"alternativ": "Megabits per sekund (Mbps)", "korrekt": false}
+        ]
+      }
+    ]
+  }
+  
